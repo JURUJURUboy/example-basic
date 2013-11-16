@@ -4,5 +4,5 @@
 * List item two
 
 ```ruby
-puts Hello World
+puts "Hello World"
 ```
